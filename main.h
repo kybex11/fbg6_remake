@@ -1,0 +1,2 @@
+#define BL_TOUCH_PIN "DAT8, DAT9, DAT10"
+#define THERMISTOR_PIN "DAT7"
